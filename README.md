@@ -21,18 +21,19 @@
 ### 📌 Featured Projects
 - 🎬 **NetflixGPT**  
   > Movie recommendation app using React + GPT  
-  🔗 https://github.com/mrvishalsahgal/netflixgpt
+  🔗 https://github.com/mrvishalsahgal/netflix-gpt
 
 - 📁 **Portfolio Website**  
   > Personal portfolio with modern UI  
   🔗 https://github.com/mrvishalsahgal/portfolio
 
+- 🤷 **Dev Tinder**  
+  > Tinder for developers 
+  🔗 https://github.com/mrvishalsahgal/devtinder
+
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvishalsahgal&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvishalsahgal&theme=tokyonight" />
@@ -42,6 +43,7 @@
 
 ### 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/mrvishalsahgal
+- 💼 X: https://x.com/mrvishalsahgal
 - 🧠 Portfolio: https://vishalsahgal.in
 
 ---
