@@ -8,7 +8,7 @@ const vishal = {
   location:   "Bhopal, MP, India 🇮🇳",
   status:     "open to work — full time & freelance",
   stack:      ["React", "TypeScript", "Node.js", "PostgreSQL", "MongoDB", "Docker"],
-  currently:  "building SplitSmart, NutriTrack & FounderMatch AI",
+  currently:  "Shipping SplitSmart, NutriTrack & FounderMatch AI",
   obsession:  "ships fast. breaks nothing. stays curious.",
 }
 ```
@@ -46,9 +46,9 @@ const vishal = {
 
 | project | what it does | stack | status |
 |---------|-------------|-------|--------|
-| **SplitSmart** | real-time expense splitting for groups | React · Node.js · Socket.io · MongoDB | 🔨 building |
-| **NutriTrack** | ai-powered calorie tracking via chat | Next.js · OpenAI · MongoDB | 🔨 building |
-| **FounderMatch AI** | tinder for startup co-founders | React · Node.js · OpenAI · MongoDB | 🔨 building |
+| **Sharely** | real-time expense splitting for groups | React · Node.js · Socket.io · MongoDB | 🔨 Shipped |
+| **NutriTrack** | ai-powered calorie tracking via chat | Next.js · OpenAI · MongoDB | 🔨 Shipped |
+| **FounderMatch AI** | tinder for startup co-founders | React · Node.js · OpenAI · MongoDB | 🔨 Ideate |
 
 ---
 
